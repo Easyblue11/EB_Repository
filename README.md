@@ -1,6 +1,9 @@
 # EB_Repository:Udp chat on any device in LAN
 Oh!!! My first repository.A little excitement
 
+Udp_Talking.py is main program.
+Udp_Talking.py是主程序
+
 You only need to know your own ip to realize the device communication under the local area network.Only two devices that can use python, whether it is Android ios linux windows . But there is also a premise, that is, you need to use threading,time and socket modules.If you do not have these three modules, please in cmd and use:
 
 pip install need_pack(threading,time,socket) //Replace need_pack with three in parentheses
